@@ -7,4 +7,15 @@ Este repositorio contiene ejercicios básicos de diferentes dificultades hechos 
 
 ## Ejercicios Básicos 
 
-### Ejercicio 1: Saludo simple 
+
+### Ejercicio 1: Saludo simple
+
+```Java
+public class Main {
+        public static void main(String[] args) {
+            String nombre = "Daniel";
+            System.out.println("Hola " + nombre);
+        }
+    }
+```
+![Imagen del ejercicio 1](Captura ejercicio 1.png)
