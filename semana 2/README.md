@@ -18,4 +18,5 @@ public class Main {
         }
     }
 ```
-![Imagen del ejercicio 1](Captura ejercicio 1.png)
+![Imagen del ejercicio 1](semana 2/Captura ejercicio 1.png)
+
