@@ -18,5 +18,7 @@ public class Main {
         }
     }
 ```
-![Imagen del ejercicio 1](semana 2/Captura ejercicio 1.png)
+<img width="206" height="40" alt="Captura ejercicio 1" src="https://github.com/user-attachments/assets/b44177a6-0a0d-4f83-92ae-0cfc28c5976c" />
+
+
 
